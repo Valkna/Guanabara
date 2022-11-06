@@ -1,0 +1,21 @@
+body {
+    background-color: aquamarine;
+    margin: 0px;
+    padding: 0px;
+}
+
+section {
+    background-color: white;
+    border-radius: 10px;
+    padding: 1rem;
+    margin: 2rem;
+    width: 20vw;
+}
+
+header h1 {
+    margin: 2rem;
+}
+
+select#flista {
+    width: 100px;
+}

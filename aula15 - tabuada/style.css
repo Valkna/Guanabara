@@ -1,0 +1,24 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header h1 {
+    text-align: center;
+}
+
+main {
+    height: 60vh;
+    width: 40vw;
+    background-color: #00cccc;
+    border-radius: 10px;
+    padding: 10px 20px;
+    margin: 50px;
+}
+
+footer {
+    align-items: flex-end;
+    text-align: center;
+}
